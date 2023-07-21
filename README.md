@@ -1,7 +1,7 @@
 # NP Assignment
 Assignment of Network Programming BE-SE 8th Sem.
 
-## Chat Bot in Unix System In C++:
+## Chat Server in Unix System In C++:
 Multiple clients are connected to server and they can talk to each other.
 
 - Compile Server and Client File:
